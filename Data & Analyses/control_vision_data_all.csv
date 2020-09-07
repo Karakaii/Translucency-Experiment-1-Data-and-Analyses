@@ -1,0 +1,63 @@
+"id","vision_condition","choice","predicted_Cooperation","movement_prediction","vision_conditionN","choiceN"
+1,"General","Defection",0.89,"decrease",1,1
+1,"Saw Choice Beforehand","Defection",0.03,"decrease",2,1
+2,"General","Defection",0.66,"decrease",1,1
+2,"Saw Choice Beforehand","Defection",0.02,"decrease",2,1
+3,"General","Cooperation",0.78,"increase",1,2
+3,"Saw Choice Beforehand","Cooperation",1,"increase",2,2
+4,"General","Cooperation",0.61,"increase",1,2
+4,"Saw Choice Beforehand","Cooperation",0.92,"increase",2,2
+5,"General","Cooperation",0.75,"increase",1,2
+5,"Saw Choice Beforehand","Cooperation",0.85,"increase",2,2
+6,"General","Cooperation",0.86,"decrease",1,2
+6,"Saw Choice Beforehand","Cooperation",0,"decrease",2,2
+7,"General","Cooperation",0.62,"decrease",1,2
+7,"Saw Choice Beforehand","Cooperation",0.51,"decrease",2,2
+8,"General","Cooperation",0.65,"decrease",1,2
+8,"Saw Choice Beforehand","Cooperation",0.35,"decrease",2,2
+9,"General","Defection",0.66,"decrease",1,1
+9,"Saw Choice Beforehand","Defection",0.09,"decrease",2,1
+10,"General","Defection",0.4,"decrease",1,1
+10,"Saw Choice Beforehand","Defection",0.3,"decrease",2,1
+11,"General","Cooperation",1,"equal",1,2
+11,"Saw Choice Beforehand","Cooperation",1,"equal",2,2
+12,"General","Cooperation",0.32,"increase",1,2
+12,"Saw Choice Beforehand","Cooperation",1,"increase",2,2
+13,"General","Cooperation",0.63,"increase",1,2
+13,"Saw Choice Beforehand","Cooperation",0.97,"increase",2,2
+14,"General","Cooperation",0.87,"decrease",1,2
+14,"Saw Choice Beforehand","Cooperation",0.58,"decrease",2,2
+15,"General","Defection",0.66,"decrease",1,1
+15,"Saw Choice Beforehand","Defection",0.52,"decrease",2,1
+16,"General","Cooperation",0.6,"decrease",1,2
+16,"Saw Choice Beforehand","Cooperation",0.55,"decrease",2,2
+17,"General","Cooperation",0.49,"decrease",1,2
+17,"Saw Choice Beforehand","Cooperation",0.43,"decrease",2,2
+18,"General","Cooperation",0.75,"decrease",1,2
+18,"Saw Choice Beforehand","Cooperation",0.7,"decrease",2,2
+19,"General","Cooperation",0.65,"decrease",1,2
+19,"Saw Choice Beforehand","Cooperation",0.35,"decrease",2,2
+20,"General","Cooperation",0.85,"increase",1,2
+20,"Saw Choice Beforehand","Cooperation",1,"increase",2,2
+21,"General","Cooperation",0.26,"increase",1,2
+21,"Saw Choice Beforehand","Cooperation",0.91,"increase",2,2
+22,"General","Cooperation",0.82,"decrease",1,2
+22,"Saw Choice Beforehand","Cooperation",0,"decrease",2,2
+23,"General","Defection",0.72,"decrease",1,1
+23,"Saw Choice Beforehand","Defection",0.23,"decrease",2,1
+24,"General","Cooperation",0.85,"increase",1,2
+24,"Saw Choice Beforehand","Cooperation",0.9,"increase",2,2
+25,"General","Defection",0.05,"decrease",1,1
+25,"Saw Choice Beforehand","Defection",0.01,"decrease",2,1
+26,"General","Cooperation",0.75,"decrease",1,2
+26,"Saw Choice Beforehand","Cooperation",0.4,"decrease",2,2
+27,"General","Defection",0.1,"decrease",1,1
+27,"Saw Choice Beforehand","Defection",0,"decrease",2,1
+28,"General","Cooperation",1,"equal",1,2
+28,"Saw Choice Beforehand","Cooperation",1,"equal",2,2
+29,"General","Defection",0.2,"decrease",1,1
+29,"Saw Choice Beforehand","Defection",0.1,"decrease",2,1
+30,"General","Cooperation",0.6,"equal",1,2
+30,"Saw Choice Beforehand","Cooperation",0.6,"equal",2,2
+31,"General","Defection",0.32,"decrease",1,1
+31,"Saw Choice Beforehand","Defection",0.28,"decrease",2,1
