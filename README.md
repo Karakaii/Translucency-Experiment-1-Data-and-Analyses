@@ -12,7 +12,7 @@ For our preregistered aims, methods, analyses, and exclusion criteria with AsPre
 
 To choose the payoffs for our PD we searched the literature for other studies conducted with a one-shot, normal form, double-choice PD which did not have strong manipulations of certain factors (e.g., did not elicit participants’ beliefs about the other participant’s cooperation before making their choice). For each study selected we recorded their payoffs, benefit to cost of cooperation ratio, and cooperation rate. We also calculated the translucency level α above which it is translucently rational to cooperate according to the studies’ b and c, where β was the actual rate of cooperation (i.e., as if the participant knew the rate of cooperation, although this is a flawed measure of the theoretical value of β because, according to translucency, the cooperation rate will have been affected by translucency beliefs), and where α≥c/βb. 
 
-You can see a table summary of these findings and calculations [here](https://github.com/Karakaii/Translucency-Experiment-1-Data-and-Analyses/blob/master/table%20research%20for%20payoffs.xlsx)
+You can see a table summary of these findings and calculations [here](https://github.com/Karakaii/Translucency-Experiment-1-Data-and-Analyses/blob/master/table%20research%20for%20payoffs.xlsx).
 ### Data and Analyses
 
 Go to [/Data & Analyses](https://github.com/Karakaii/Translucency-Experiment-1-Data-and-Analyses/tree/master/Data%20%26%20Analyses)
